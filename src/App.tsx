@@ -38,11 +38,11 @@ export function App() {
   return (
     <div className='min-h-screen flex flex-col scrollbar-hide'>
       <div className="px-6 py-3 flex items-center justify-between border-b">
-        <h1 className="text-xl font-bold">aivan.ai</h1>
+        <h1 className="text-xl font-bold">Derock.ia</h1>
 
         <div className="flex items-center gap-3">
           <span className="text-sm text-muted-foreground">
-            Desenvolvido com 💜 pelo Ivan
+            Desenvolvido com 💜 pelo Derock.
           </span>
 
 
